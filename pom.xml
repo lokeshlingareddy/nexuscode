@@ -43,15 +43,11 @@
 <distributionManagement>
 <repository>
 <id>package</id>
-<url>
-http://18.219.194.196:8081/repository/Package/
-</url>
+<url>http://18.219.194.196:8081/repository/Package/</url>
 </repository>
 <snapshotRepository>	
 <id>snapshots</id>
-<url>
-http://18.219.194.196:8081/repository/Snapshots/
-</url>
+<url>http://18.219.194.196:8081/repository/Snapshots/</url>
 </snapshotRepository>
 </distributionManagement>
 </project>
